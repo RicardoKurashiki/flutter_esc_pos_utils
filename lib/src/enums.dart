@@ -40,7 +40,7 @@ class PaperSize {
       case 1:
         return 372;
       case 2:
-        return 528;
+        return 630;
       case 3:
         return 503;
       case 4:
